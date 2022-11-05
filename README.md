@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/deviobr/code-patterns/blob/main/images/devio.webp?raw=true" />
+  <img src="https://github.com/deviobr/code-patterns/blob/main/images/devio.webp?raw=true#gh-dark-mode-only" />
+  <img src="https://github.com/deviobr/code-patterns/blob/main/images/devio-black.webp?raw=true#gh-light-mode-only" />
 </p>
 
 <h1 align="center">Documentação de padrões e qualidade de código</h1>
