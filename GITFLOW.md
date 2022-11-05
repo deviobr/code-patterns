@@ -16,7 +16,7 @@ Um commit deve conter somente uma responsabilidade, ou seja, deve ser feito some
 
 #### Exemplos
 
-1. Em um módulo de autenticação, há duas coisas a serem implementadas: uma correção para transformar o email da pessoa em lowercase assim que chega na aplicação pois usuários estava tendo problemas utilizando alguma letra maiúscula no login, e autenticação de 2 fatores. Isso deve ser feito em dois commits diferentes. Um tem a responsabilidade correção, e outro de implementação de uma nova feature.
+1. Em um módulo de autenticação, há duas coisas a serem implementadas: uma correção para transformar o email da pessoa em lowercase assim que chega na aplicação pois os usuários estavam tendo problemas utilizando alguma letra maiúscula no login, e autenticação de 2 fatores. Isso deve ser feito em dois commits diferentes. Um tem a responsabilidade de correção, e outro de implementação de uma nova feature.
 2. Existem correções a serem feitas no módulo de pedidos e no módulo administrativo: mesmo que sejam correções mínimas, faça-as em commits diferentes.
 
 ### 2. Padronização de mensagens de commit
