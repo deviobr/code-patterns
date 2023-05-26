@@ -5,6 +5,7 @@ Hoje em dia utilizamos Git por padrão como ferramenta de desenvolvimento. Entre
 O Gitflow ajudará principalmente nesses casos onde mais de uma pessoa está desenvolvendo features. Se isso ocorrer tudo numa mesma branch, imagine a bagunça. O ideal é a utilização de uma branch para cada feature ou correção, para que haja uma independência e que, a branch ```main```, seja utilizada somente quando tudo estiver funcionamento após a integração das branchs de features/correções. Essa junção deve ocorrer na ```develop``` e, somente após correções e finalizações, um merge para a branch principal (```main```).
 
 **[Artigo sobre Gitflow e branchs](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)**
+
 **[Artigo sobre Fluxo de trabalho de Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)**
 
 ## Padronização de commits
